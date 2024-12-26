@@ -21,12 +21,6 @@ Welcome to my GitHub profile! I'm an experienced iOS developer passionate about 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinhoangpq&show_icons=true&theme=radical)
 
-## 📫 Let's Connect
-
-- LinkedIn: [Huy Hoang](https://www.linkedin.com/in/huyhoangphamquang/)
-
-Feel free to explore my repositories and reach out if you have any questions or want to collaborate. Let's build something amazing together!
-
 ---
 
 ⭐️ From [Huy Hoang](https://github.com/kevinhoangpq)
