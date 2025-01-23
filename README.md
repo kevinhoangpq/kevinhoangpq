@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an experienced iOS developer passionate about 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevinhoangpq&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-kevinhoangpqs-projects.vercel.app/api?username=kevinhoangpq&show_icons=true&theme=radical)
 
 ---
 
