@@ -17,10 +17,4 @@ Welcome to my GitHub profile! I'm an experienced iOS developer passionate about 
 - **Tools:** Xcode, Git, Fastlane, CocoaPods, Carthage, SPM
 - **Other:** RESTful APIs, MVVM, Dependency Injection, Unit Testing, CI/CD pipelines
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats-kevinhoangpqs-projects.vercel.app/api?username=kevinhoangpq&show_icons=true&theme=radical)
-
----
-
 ⭐️ From [Huy Hoang](https://github.com/kevinhoangpq)
