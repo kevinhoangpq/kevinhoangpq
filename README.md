@@ -1,20 +1,59 @@
-# 👋 Hi, I'm Huy Hoang!
+# 👋 Hi, I'm Tofu!
 
-Welcome to my GitHub profile! I'm an experienced iOS developer passionate about crafting clean, user-friendly, and efficient mobile applications. I enjoy solving complex problems, experimenting with new technologies, and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a mobile engineer passionate about building fast, intuitive, and scalable applications. I enjoy solving challenging engineering problems, exploring new technologies, and continuously improving my craft through learning and open-source contributions.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently deepening my knowledge of Swift and SwiftUI.
-- 💼 I have professional experience in building and maintaining iOS applications from concept to release.
-- 🛠️ My expertise includes creating intuitive UI/UX, integrating APIs, and optimizing app performance.
-- 💬 Ask me about Swift, SwiftUI, Objective-C, Xcode, and iOS app architecture.
+- 📱 Mobile Developer specializing in iOS with experience delivering production-ready applications.
+- 🌱 Currently expanding my expertise in Flutter, Kotlin Multiplatform, and modern mobile architectures.
+- 🏗️ Passionate about clean architecture, reusable components, performance optimization, and great user experiences.
+- 💡 Interested in mobile engineering, automation, CI/CD, and developer tooling.
+- 💬 Ask me about Swift, SwiftUI, UIKit, Flutter, Dart, and mobile architecture.
 - 📫 How to reach me: [Email](mailto:hpq.huy99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huyhoangphamquang/)
 
-## 🧰 My Tech Stack
+## 🧰 Tech Stack
 
-- **Languages:** Swift, Kotlin, Dart
-- **Frameworks:** SwiftUI, UIKit, Combine, RxSwift, Core Animation
-- **Tools:** Xcode, Git, Fastlane, CocoaPods, Carthage, SPM
-- **Other:** RESTful APIs, MVVM, Dependency Injection, Unit Testing, CI/CD pipelines
+### Languages
+- Swift
+- Dart
+- Kotlin
+- Objective-C
+
+### iOS
+- UIKit
+- SwiftUI
+- Combine
+- RxSwift
+- Core Animation
+- StoreKit
+
+### Flutter
+- Bloc
+- Riverpod
+- AutoRoute
+
+### Tools
+- Xcode
+- Android Studio
+- Git
+- Fastlane
+- Firebase
+- CocoaPods
+- Swift Package Manager (SPM)
+- GitHub Actions
+- Jenkins
+
+### Architecture & Backend
+- MVVM
+- Clean Architecture
+- Dependency Injection
+- REST APIs
+- GraphQL
+- Unit Testing
+- CI/CD Pipelines
+
+---
+
+> *Building mobile experiences, one commit at a time.*
 
 ⭐️ From [Huy Hoang](https://github.com/kevinhoangpq)
