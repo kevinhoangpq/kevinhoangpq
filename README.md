@@ -11,46 +11,14 @@ Welcome to my GitHub profile! I'm a mobile engineer passionate about building fa
 - 💬 Ask me about Swift, SwiftUI, UIKit, Flutter, Dart, and mobile architecture.
 - 📫 How to reach me: [Email](mailto:hpq.huy99@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huyhoangphamquang/)
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Swift
-- Dart
-- Kotlin
-- Objective-C
-
-### iOS
-- UIKit
-- SwiftUI
-- Combine
-- RxSwift
-- Core Animation
-- StoreKit
-
-### Flutter
-- Bloc
-- Riverpod
-- AutoRoute
-
-### Tools
-- Xcode
-- Android Studio
-- Git
-- Fastlane
-- Firebase
-- CocoaPods
-- Swift Package Manager (SPM)
-- GitHub Actions
-- Jenkins
-
-### Architecture & Backend
-- MVVM
-- Clean Architecture
-- Dependency Injection
-- REST APIs
-- GraphQL
-- Unit Testing
-- CI/CD Pipelines
+- **Languages:** Swift, Dart, Kotlin, Objective-C
+- **Frameworks:** SwiftUI, UIKit, Flutter, Combine, RxSwift
+- **Architecture:** MVVM, Clean Architecture, Dependency Injection
+- **Tools:** Xcode, Android Studio, Git, Fastlane, Firebase, GitHub Actions
+- **Backend:** REST APIs, GraphQL
+- **Others:** CI/CD, Unit Testing, CocoaPods, Swift Package Manager
 
 ---
 
